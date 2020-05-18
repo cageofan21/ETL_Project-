@@ -7,7 +7,7 @@ Adib Khan
 Darrell Collison
 
 
-                                                                      ETL Project
+# ETL Project
                                                                       
   For this assignment we were tasked with extracting, transforming and loading two different data sources into one queriable dataframe. We decided to do this project using Baseball Season Statistics that were in a CSV and the World Series Viewership Statistics that we scraped from a web source. 
 
@@ -19,3 +19,9 @@ Darrell Collison
  Merged CSV:
  
 ![](Images/MergeBaseballCSV.png)
+
+Postgres Table:
+
+![](Images/PostGres.png)
+
+
