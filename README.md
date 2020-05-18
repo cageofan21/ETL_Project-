@@ -1,11 +1,3 @@
-# ETL_Project-
-ETL Project 
-
-Santosh R
-Eric Meyer
-Adib Khan
-Darrell Collison
-
 
 # ETL Project
                                                                       
